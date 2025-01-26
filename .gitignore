@@ -1,0 +1,9 @@
+build/
+node_modules/
+.cache/
+coverageEnv/
+scTopics
+temp/
+.DS_Store
+.nova/
+.env
